@@ -1,0 +1,9 @@
+<appian-plugin name="cdtProperties" key="com.blzkz.cdtproperties">
+  <plugin-info>
+    <description>Allows to get the attributes of an Appian CDT</description>
+    <vendor name="blzkz" url="http://www.blzkz.es" />
+    <version>1.0.1</version>
+    <application-version min="17.3" />
+  </plugin-info>
+  <function key="getCdtProperties" class="com.blzkz.cdtproperties.CdtProperties" />
+</appian-plugin>
